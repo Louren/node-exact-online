@@ -1,0 +1,56 @@
+{
+  "_from": "exact-online",
+  "_id": "exact-online@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-qjZUV7IkXKGCaHC63Iu5lCXrxR8=",
+  "_location": "/exact-online",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "exact-online",
+    "name": "exact-online",
+    "escapedName": "exact-online",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/exact-online/-/exact-online-0.1.5.tgz",
+  "_shasum": "aa365457b2245ca1826870badc8bb99425ebc51f",
+  "_spec": "exact-online",
+  "_where": "C:\\Users\\LourenvanGarderen\\Documents\\VSCode\\js-invoicing\\server",
+  "author": {
+    "name": "Jelle Kralt",
+    "email": "jelle@aanzee.nl"
+  },
+  "bugs": {
+    "url": "https://github.com/AanZee/node-exact-online/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^3.5.0"
+  },
+  "deprecated": false,
+  "description": "Wrapper for the Exact Online API",
+  "homepage": "https://github.com/AanZee/node-exact-online",
+  "keywords": [
+    "exact",
+    "online",
+    "api"
+  ],
+  "license": "MIT",
+  "main": "lib/exactonline.js",
+  "name": "exact-online",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AanZee/node-exact-online.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.5"
+}
